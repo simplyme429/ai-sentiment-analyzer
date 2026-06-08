@@ -34,4 +34,9 @@ Screenshots
 -Charts
 <img width="2375" height="1781" alt="charts" src="https://github.com/user-attachments/assets/56d47d8c-437f-4cee-9df0-ef6f2f56abb9" />
 
+Links
+
+-Live Demo: https://ai-sentiment-analyzer-favr2i66ew6fdmokmbqpmb.streamlit.app/
+-GitHub Repository: https://github.com/simplyme429/ai-sentiment-analyzer
+
 
